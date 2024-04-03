@@ -1,4 +1,4 @@
-## Welcome to the Wonderful World of ROS!  **(Robot Operating System)** ✨
+![Need_for_ROS-1](https://github.com/sdhar04/ROSInstallationFest/assets/123410790/c5714493-7188-414c-ae0a-d3809814d0ed)## Welcome to the Wonderful World of ROS!  **(Robot Operating System)** ✨
 
 **Ever dreamed of building robots that can:**
 
@@ -28,6 +28,8 @@ The Robotics Club is your gateway to the exciting world of ROS!  We'll help you:
 * **Build awesome robots with your fellow robot enthusiasts:** We have established a great community to help you through it all, and you will be learning with your friends!
 * **Get access to cool resources:** We have the tools you need to bring your robot dreams to life!
 * **Participate in competitions and showcase your skills:** This fest will be your induction to the Robotics Summer Camp, where you will be given exciting tasks and evaluated on the same, eventually opening a path for you to join the Robotics Club!
+![ROS](https://github.com/sdhar04/ROSInstallationFest/assets/123410790/09771e39-c08a-40de-a2d8-234dec40fc0a)
+
 
 **So, what are you waiting for?** Participate in the ROS Installation Fest and unlock the potential of ROS!  Together, we can build robots that will change the world! 
 
