@@ -8,6 +8,8 @@
 
 **Then buckle up, because ROS is your key to making it happen!**
 
+![BuckleUp](https://github.com/sdhar04/ROSInstallationFest/blob/main/assets/buckle_up.gif)
+
 **What is ROS?**
 
 Imagine a giant toolbox filled with everything you need to build a robot.  **ROS** is like that toolbox, but even cooler!  It's a free and open-source framework that lets you:
