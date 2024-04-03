@@ -22,6 +22,9 @@ Imagine a giant toolbox filled with everything you need to build a robot.  **ROS
 A typical desktop using ROS looks like this:
 ![TurtlesimScreen](https://github.com/sdhar04/ROSInstallationFest/blob/main/assets/ROSExample.png)
 
+And with the right usage and more advanced bots, it can look like this!
+![AdvancedImage](https://github.com/sdhar04/ROSInstallationFest/blob/main/assets/AdvancedExample.png)
+
 **Why participate in the ROS Installation Fest?**
 
 The Robotics Club is your gateway to the exciting world of ROS!  We'll help you:
@@ -35,6 +38,10 @@ The Robotics Club is your gateway to the exciting world of ROS!  We'll help you:
 
 
 **So, what are you waiting for?** Participate in the ROS Installation Fest and unlock the potential of ROS!  Together, we can build robots that will change the world! 
+
+Well then, wait no more! Here are the links to the installation guides,
+* For Windows users: [https://github.com/sdhar04/ROSInstallationFest/blob/main/Installation_Guide.pdf](https://github.com/sdhar04/ROSInstallationFest/blob/main/Installation_Guide.pdf)
+* For Mac users: [https://github.com/sdhar04/ROSInstallationFest/blob/main/installation%20guide%20for%20mac%20users.pdf](https://github.com/sdhar04/ROSInstallationFest/blob/main/installation%20guide%20for%20mac%20users.pdf)
 
 **P.S.**  Check out these resources to get started:
 
